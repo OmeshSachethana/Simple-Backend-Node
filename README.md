@@ -1,4 +1,4 @@
-# Simple Backend (Node)
+# Simple Backend (Node) with MongoDB connection
 
 ## Steps
 
